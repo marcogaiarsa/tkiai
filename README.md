@@ -2,7 +2,11 @@
 
 Small python utility for practices that require sounds at random intervals.
 
-Comes with simple bg sound and simple illustrations, not original.
+Comes with simple bg sound and simple illustrations.
+
+Source of images:
+
+https://pixabay.com/vectors/
 
 Sources of sounds:
 

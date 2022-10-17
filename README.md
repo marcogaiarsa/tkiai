@@ -10,6 +10,6 @@ https://pixabay.com/vectors/
 
 Sources of sounds:
 
-river sound link = 'https://www.youtube.com/watch?v=C3rZPuyydKg&ab_channel=SFX'
+river sound link: 'https://www.youtube.com/watch?v=C3rZPuyydKg&ab_channel=SFX'
 
-bamboo sound link = 'https://www.youtube.com/watch?v=v7-PjPp1JKw&ab_channel=SoundEffect'
+bamboo sound link: 'https://www.youtube.com/watch?v=v7-PjPp1JKw&ab_channel=SoundEffect'
